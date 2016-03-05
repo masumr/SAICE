@@ -30,19 +30,25 @@ Topics | Resource
 
 
 #Combinatorics
-+ [Pascal's Triangle](http://hanoiparis.com/construct.php?page=paysagetxt&idfam=25&idpays=1421)  
+
+Topics | Resource
+--- | ---
+ Pascal's Triangle | [1](http://hanoiparis.com/construct.php?page=paysagetxt&idfam=25&idpays=1421)
 
 #DataStucture
-+ Array  
-+ Stack  
-+ Queqe  
-+ [Binary Index Tree](https://stackoverflow.com/questions/15439233/bitusing-a-binary-indexed-tree)  
-+ Segment Tree  
-+ Segment Tree with Lazy Propagation  
-+ Binary Tree  
-+ Binary Search Tree  
-+ Disjoint Set  
-+ Trie Tree  
+
+Topics | Resource
+--- | ---
+ Array | [1]
+ Stack | [1]
+ Queqe | [1]
+ Binary Index Tree | [1](https://stackoverflow.com/questions/15439233/bitusing-a-binary-indexed-tree)
+ Segment Tree | [1]
+ Segment Tree with Lazy Propagation | [1]
+ Binary Tree | [1]
+ Binary Search Tree | [1]
+ Disjoint Set | [1]
+ Trie Tree | [1]
 
 Title | Resource
 ---|---
@@ -53,5 +59,5 @@ Title | Resource
 
 Tittle | Resourse
 ---|---
-- Subset Sum Problem | [1](https://www.youtube.com/watch?v=s6FhG--P7z0)
+ Subset Sum Problem | [1](https://www.youtube.com/watch?v=s6FhG--P7z0)
 
