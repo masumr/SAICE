@@ -39,21 +39,21 @@ Topics | Resource
 
 Topics | Resource
 --- | ---
- Array | [1]
- Stack | [1]
- Queqe | [1]
+ Array | 1
+ Stack | 1
+ Queqe | 1
  Binary Index Tree | [1](https://stackoverflow.com/questions/15439233/bitusing-a-binary-indexed-tree)
- Segment Tree | [1]
- Segment Tree with Lazy Propagation | [1]
- Binary Tree | [1]
- Binary Search Tree | [1]
- Disjoint Set | [1]
- Trie Tree | [1]
+ Segment Tree | 1
+ Segment Tree with Lazy Propagation | 1
+ Binary Tree | 1
+ Binary Search Tree | 1
+ Disjoint Set | 1
+ Trie Tree | 1
 
 Title | Resource
 ---|---
-- Fun With Bit | [1](https://graphics.stanford.edu/~seander/bithacks.html) [2](http://realtimecollisiondetection.net/blog/?p=78) [3](https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit-in-c-c) [4](http://bits.stephan-brumme.com/) [5](https://prmgevryday.quora.com/Using-bitwise-operations-on-strings-characters)
-- Fast Multiplication Algorithm | [1](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
+ Fun With Bit | [1](https://graphics.stanford.edu/~seander/bithacks.html) [2](http://realtimecollisiondetection.net/blog/?p=78) [3](https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit-in-c-c) [4](http://bits.stephan-brumme.com/) [5](https://prmgevryday.quora.com/Using-bitwise-operations-on-strings-characters)
+ Fast Multiplication Algorithm | [1](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
 
 #DynamicProgramming
 
