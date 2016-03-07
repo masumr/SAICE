@@ -43,7 +43,7 @@ Topics | Resource
  Stack | 1
  Queqe | 1
  Binary Index Tree | [1](https://stackoverflow.com/questions/15439233/bitusing-a-binary-indexed-tree)
- Segment Tree | 1
+ Segment Tree | [1](http://algosaur.us/segment-tree/)
  Segment Tree with Lazy Propagation | 1
  Binary Tree | 1
  Binary Search Tree | 1
