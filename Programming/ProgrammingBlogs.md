@@ -9,3 +9,5 @@
 + [HackerearthBlog](http://blog.hackerearth.com/)  
 + [Zobayer](http://zobayer.blogspot.in/)  
 + [Ravi Chandra](http://letuscode.in/)  
++ [One Problem A Day](http://one-problem-a-day.blogspot.com/)  
++ [I Solved A Problem](http://isolvedaproblem.blogspot.com/)  
