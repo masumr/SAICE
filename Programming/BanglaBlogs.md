@@ -1,0 +1,7 @@
++ [Smilitude](https://sites.google.com/site/smilitude/)  
++ [ShafaetsPlanet](http://www.shafaetsplanet.com/planetcoding/)  
++ [Progkriya](http://www.progkriya.org/)  
++ [Hukush Pakush](http://hukush-pakush.com/)  
++ [SubeenBlog](http://subeen.com/)  
++ [SubeenBook](http://cpbook.subeen.com/)  
++ [Shoshikkha](http://shoshikkha.com/)  
